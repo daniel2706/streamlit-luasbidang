@@ -1,6 +1,7 @@
 numpy
 pandas
 streamlit
+streamlit_option_menu
 pip
 scikit-learn
 sklearn
